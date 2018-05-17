@@ -1,0 +1,47 @@
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
+   <channel>
+      <title>The Basement Podcast</title>
+      <link>http://18.188.125.75</link>
+      <description>The Basement Podcast focuses on life in and around Denver, with the occasional deviation onto topics effecting the world at large.  When someone has something to say, we listen.  Feedback is appreciated.</description>
+      
+      <language>en</language>
+      
+      <pubDate>Thu, 03 May 2018 02:00:00 GMT</pubDate>
+      
+      <webMaster>seagrentime@gmail.com (Tim Seagren)</webMaster>
+      <category>Music</category>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="http://18.188.125.75/images/new.png" />
+      <itunes:author>Tim Seagren</itunes:author>
+      <image>
+         <title>The Basement Podcast</title>
+         <url>http://18.188.125.75/images/new.png </url>
+         <link>http://18.188.125.75</link>
+
+         <description>Basement Podcast Logo</description>
+      </image>
+      <item>
+         <title>Episode 1: Tim and Jon</title>
+         <link>http://18.188.125.75/podcasts/episode_1.mp3 </link>
+         <itunes:subtitle>In the first ever episode of the show, Tim and Jon drink wine and sit in Tim's backyard in Denver, CO and chat about music, being single in Denver, and Syria (natually).</itunes:subtitle>
+
+         <author>seagrentime@gmail.com (Tim Seagren)</author>
+         <category>Music</category>
+         <enclosure url="http://18.188.125.75/podcasts/episode_1.mp3" type="audio/mpeg" length="136960127" />
+	 <guid isPermaLink="false">http://18.188.175.25/unqid1</guid>
+      </item>
+
+      <item>
+         <title>Episode 2: Mod Pod</title>
+         <link>http://18.188.125.75/podcasts/Mod-pod.mp3 </link>
+         <itunes:subtitle>This episode features a former Chief Marketing Officer for a major retailer and the current Executive Vice President of a pharma company.  Together the powerhouse partners are starting a buisness called Muses on Demand (MOD) which seeks to make the task of finding work much easier for freelance creatives.</itunes:subtitle>
+
+         <author>seagrentime@gmail.com (Tim Seagren)</author>
+         <category>Music</category>
+         <enclosure url="http://18.188.125.75/podcasts/Mod-pod.mp3" type="audio/mpeg" length="165849466" />
+	 <guid isPermaLink="false">http://18.188.175.25/unqid2</guid>
+      </item>
+
+   </channel>
+</rss>
